@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 1eca212e2e2ee3a4d8b765624e0510e8
+  - enabled: 1
+    path: Assets/Scenes/main game.unity
+    guid: 2cfeb2528159c404b9ecfa22672adbb3
+  - enabled: 1
+    path: Assets/Scenes/HairCut.unity
+    guid: 6f3c325821c31c547a2859d95f412740
+  - enabled: 1
+    path: Assets/Scenes/cAKE bOSS.unity
+    guid: 1b250aa24b8b9934a8d9e50a346ede95
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6f81279ce273fa8469a1686c165b70e8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dab4020cff4567140b307600c03ebcc5, type: 2}
